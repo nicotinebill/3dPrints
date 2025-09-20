@@ -1,0 +1,4 @@
+Primer Cube (huge version) by OmegaZZ on Thingiverse: https://www.thingiverse.com/thing:6614834
+
+Summary:
+Watch the attached video for additional information.This holder and cover are for a custom made low budget Primer Cube that uses a ZY6812 motor and a bowl shaped magnet array with 121 pieces of 15mm neodymium cube magnets.The motor usually comes with a gear mounted on the axle which has to be removed first.The magnet array uses 121 pieces of 15mm cube magnets which should be glued into the array one by one.!!!WARNING!!!THIS IS NOT FOR BEGINNERS, YOU SHOULD HAVE BUILT AT LEAST SOME SMALLER BOWL ARRAYS AND BE EXPIRIENCED AT HANDLING STRONG MAGNETS!
